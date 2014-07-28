@@ -1,0 +1,9 @@
+Building N5coin
+
+See doc/readme-qt.rst for instructions on building N5coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of N5coin.
+
+See doc/build-*.txt for instructions on building N5coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of N5coin.
